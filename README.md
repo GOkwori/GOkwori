@@ -72,7 +72,7 @@ By day, I navigate the complexities of software development life cycles, require
 ![Business Analysis](https://img.shields.io/badge/International_Diploma_Business_Analysis-3776AB.svg?style=flat) - **British Computer Society (BCS)** <br>
 ![Quantity Surveying](https://img.shields.io/badge/Bachelor_Technology_Quantity_Surveying-3776AB.svg?style=flat) - **Federal University of Technology** 
 
-### 🏅 Licenses & Qualifications
+### 🏅 `Licenses & Qualifications`
 
 ![Advanced Registered IT Technician (RITTech Advanced)](https://img.shields.io/badge/RITTech_Advanced-4285F4.svg?style=flat)
 ![BCS Practitioner Certificate Business Analysis Practice](https://img.shields.io/badge/BCS_Business_Analysis_Practice-34A853.svg?style=flat)
@@ -84,6 +84,10 @@ By day, I navigate the complexities of software development life cycles, require
 ![Professional Scrum Master I](https://img.shields.io/badge/Professional_Scrum_Master_I-EB4335.svg?style=flat)
 ![Scrum Fundamentals Certified](https://img.shields.io/badge/Scrum_Fundamentals_Certified-34A853.svg?style=flat)
 
+### 🏅 `Other Certifications`
+![image](https://github.com/GOkwori/GOkwori/assets/132067023/3087468b-f138-4899-bf3b-fac8894dfde8)
+![image](https://github.com/GOkwori/GOkwori/assets/132067023/5f1886b6-70af-4f1b-a3be-091f5aca8def)
+![image](https://github.com/GOkwori/GOkwori/assets/132067023/1c83c7e2-b063-4583-9bfd-3c36fd34564c)
 
 ### 🌐 `Connect With Me`
 Let's connect and create something amazing together. Find me on LinkedIn or drop me an email. <br>
