@@ -1,6 +1,7 @@
 # George Okwori
 
-## 💼 Technical Business Analyst & Full-Stack Web Developer - Student
+## [![Profile](https://img.shields.io/badge/Full--Stack_Developer_|_Technical_Business_Analyst_|_Data_Enthusiast-3776AB?style=for-the-badge)](https://github.com/GOkwori)
+
 
 ### 🙋‍♂️ `About Me`
 
