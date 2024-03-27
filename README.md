@@ -67,9 +67,9 @@ By day, I navigate the complexities of software development life cycles, require
 
 ### 🎓 `Education`
 
-![Full-Stack Development](https://img.shields.io/badge/Diploma_Full_Stack_Development-3776AB.svg?style=flat) - **Code Institute** <br>
-![Business Analysis](https://img.shields.io/badge/International_Diploma_Business_Analysis-3776AB.svg?style=flat) - **British Computer Society (BCS)** <br>
-![Quantity Surveying](https://img.shields.io/badge/Bachelor_Technology_Quantity_Surveying-3776AB.svg?style=flat) - **Federal University of Technology** 
+![Full-Stack Development](https://img.shields.io/badge/Diploma_Full_Stack_Development-3776AB.svg?style=flat)  <br>
+![Business Analysis](https://img.shields.io/badge/International_Diploma_Business_Analysis-3776AB.svg?style=flat) <br>
+![Quantity Surveying](https://img.shields.io/badge/Bachelor_Technology_Quantity_Surveying-3776AB.svg?style=flat) 
 
 ### 🏅 `Licenses & Qualifications`
 
