@@ -83,7 +83,7 @@ By day, I navigate the complexities of software development life cycles, require
 ![Professional Scrum Master I](https://img.shields.io/badge/Professional_Scrum_Master_I-EB4335.svg?style=flat)
 ![Scrum Fundamentals Certified](https://img.shields.io/badge/Scrum_Fundamentals_Certified-34A853.svg?style=flat)
 
-### 🏅 `Other Certifications`
+### 📋 `Badges`
 ![image](https://github.com/GOkwori/GOkwori/assets/132067023/3087468b-f138-4899-bf3b-fac8894dfde8)
 ![image](https://github.com/GOkwori/GOkwori/assets/132067023/5f1886b6-70af-4f1b-a3be-091f5aca8def)
 ![image](https://github.com/GOkwori/GOkwori/assets/132067023/1c83c7e2-b063-4583-9bfd-3c36fd34564c)
