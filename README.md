@@ -87,6 +87,8 @@ By day, I navigate the complexities of software development life cycles, require
 ![image](https://github.com/GOkwori/GOkwori/assets/132067023/3087468b-f138-4899-bf3b-fac8894dfde8)
 ![image](https://github.com/GOkwori/GOkwori/assets/132067023/5f1886b6-70af-4f1b-a3be-091f5aca8def)
 ![image](https://github.com/GOkwori/GOkwori/assets/132067023/1c83c7e2-b063-4583-9bfd-3c36fd34564c)
+![image](https://github.com/GOkwori/GOkwori/assets/132067023/d17769a3-7b6f-4e32-bd47-3aac265697b0)
+
 
 ### 🌐 `Connect With Me`
 Let's connect and create something amazing together. Find me on LinkedIn or drop me an email. <br>
