@@ -97,7 +97,7 @@ By day, I navigate the complexities of software development life cycles, require
 
 ### 🌐 `Connect With Me`
 Let's connect and create something amazing together. Find me on LinkedIn or drop me an email. <br>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com) <br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Email](https://img.shields.io/badge/-Email-green?style=flat)](mailto:george.okwori@outlook.com)
 
 
