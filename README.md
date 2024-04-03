@@ -23,7 +23,7 @@ By day, I navigate the complexities of software development life cycles, require
 
 ### 💻 `Tech Stack` 
 #### 👩🏻‍🏫 I'm Currently Learning
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
+![Back-End Development](https://img.shields.io/badge/Back--End_Development-005571.svg?style=flat)
 
 #### 🎨 Designs & Wireframes
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-black.svg?style=flat&logo=balsamiq&logoColor=white)
@@ -33,6 +33,7 @@ By day, I navigate the complexities of software development life cycles, require
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
 
 #### 📚 Libraries & Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white)
