@@ -54,6 +54,7 @@ By day, I navigate the complexities of software development life cycles, require
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
 ![GitPod](https://img.shields.io/badge/GitPod-1AA6E4.svg?style=flat&logo=gitpod&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
+![Codeanywhere](https://img.shields.io/badge/Codeanywhere-FF4785.svg?style=flat&logo=codeanywhere&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=markdown&logoColor=white)
 
 ### 🏆 `Key Projects`
