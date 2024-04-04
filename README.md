@@ -45,6 +45,8 @@ By day, I navigate the complexities of software development life cycles, require
 #### 🗃 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-FF9800.svg?style=flat&logo=MicrosoftSQLServer&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white)
+
 
 #### 🏡 Hosting
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222.svg?style=flat&logo=github&logoColor=white)
