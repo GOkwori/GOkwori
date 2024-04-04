@@ -39,6 +39,8 @@ By day, I navigate the complexities of software development life cycles, require
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7.svg?style=flat&logo=fontawesome&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=flask&logoColor=white)
+
 
 #### 🗃 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
