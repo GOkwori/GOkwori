@@ -48,6 +48,8 @@ By day, I navigate the complexities of software development life cycles, require
 
 #### 🏡 Hosting
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222.svg?style=flat&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat&logo=heroku&logoColor=white)
+
 
 #### 💻 Version Control, IDE's & Other Coding Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
