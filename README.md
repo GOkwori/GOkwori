@@ -41,6 +41,8 @@ By day, I navigate the complexities of software development life cycles, require
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7.svg?style=flat&logo=fontawesome&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=flask&logoColor=white)
 ![Materialize](https://img.shields.io/badge/Materialize-FF6F00.svg?style=flat&logo=materialize&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-B41717.svg?style=flat&logo=jinja&logoColor=white)
+
 
 
 #### 🗃 Databases
