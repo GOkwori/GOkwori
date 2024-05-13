@@ -23,7 +23,7 @@ By day, I navigate the complexities of software development life cycles, require
 
 ### 💻 `Tech Stack` 
 #### 👩🏻‍🏫 I'm Currently Learning
-![Back-End Development](https://img.shields.io/badge/Back--End_Development-005571.svg?style=flat)
+![Full-Stack Development](https://img.shields.io/badge/Back--End_Development-005571.svg?style=flat)
 
 #### 🎨 Designs & Wireframes
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-black.svg?style=flat&logo=balsamiq&logoColor=white)
