@@ -42,8 +42,7 @@ By day, I navigate the complexities of software development life cycles, require
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=flask&logoColor=white)
 ![Materialize](https://img.shields.io/badge/Materialize-FF6F00.svg?style=flat&logo=materialize&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-B41717.svg?style=flat&logo=jinja&logoColor=white)
-
-
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white)
 
 #### 🗃 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
