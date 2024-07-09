@@ -1,6 +1,6 @@
 # George Okwori
 
-## [![Profile](https://img.shields.io/badge/Full--Stack_Developer_•_Technical_Business_Analyst_•_Data_Enthusiast-3776AB.svg?style=flat)](https://github.com/GOkwori)
+## [![Profile](https://img.shields.io/badge/Full--Stack_Developer_•_Technical_Business_Analyst_•_D365 Application Analyst - Team Leader-3776AB.svg?style=flat)](https://github.com/GOkwori)
 
 ### 🙋‍♂️ `About Me`
 
