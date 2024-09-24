@@ -1,12 +1,11 @@
 # George Okwori
 
-## [![Profile](https://img.shields.io/badge/Full-Stack_Developer_•_Technical_Business_Analyst_•_D365 Application Analyst-3776AB.svg?style=flat)](https://github.com/GOkwori)]
+## [![Profile](https://img.shields.io/badge/Full-Stack_Developer_•_Technical_Business_Analyst_•_D365_Application_Analyst-3776AB.svg?style=flat)](https://github.com/GOkwori)
+
 
 ### 🙋‍♂️ `About Me`
 
-Hello there! 👋 I'm George Okwori, a seasoned Technical Business Analyst with a solid decade of experience steering projects to success in the financial services domain. Currently based out of Cardiff, I've embarked on a thrilling journey to expand my arsenal into the realms of Full-Stack Web Development, fueled by a passionate curiosity for technology and its transformative power.
-
-By day, I navigate the complexities of software development life cycles, requirement analysis, and process optimization at York St John University. By night, I dive deep into the intricacies of HTML5, CSS3, JavaScript, and Python, thanks to a comprehensive diploma program with the Code Institute.
+Hello there! 👋 I'm George Okwori, an experienced Application Analyst-Team Leader and Technical Business Analyst with over a decade of expertise in digital transformation, system integration, and process optimization. Based in Cardiff, I currently lead technical projects at York St. John University, focusing on Microsoft Dynamics 365 and cloud integration solutions. I bring strong skills in full-stack development (HTML5, CSS3, JavaScript, Python) and am adept at requirements gathering, UAT testing, and stakeholder management. With certifications in Business Analysis and Agile Scrum, I strive to deliver innovative, data-driven solutions that enhance operational efficiency and improve customer satisfaction across diverse industries.
 
 ### 🛠️ `Technical Skills`
 
@@ -22,12 +21,14 @@ By day, I navigate the complexities of software development life cycles, require
 ![User Acceptance Testing (UAT)](https://img.shields.io/badge/User_Acceptance_Testing_(UAT)-F44336.svg?style=flat&logo=Testing&logoColor=white)
 
 ### 💻 `Tech Stack` 
-#### 👩🏻‍🏫 I'm Currently Learning
-![Full-Stack Development](https://img.shields.io/badge/Back--End_Development-005571.svg?style=flat)
 
 #### 🎨 Designs & Wireframes
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-black.svg?style=flat&logo=balsamiq&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white)
+![Uizard](https://img.shields.io/badge/Uizard-%230080FF.svg?style=flat&logo=uizard&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+
+
 
 #### <> Programming Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -49,6 +50,9 @@ By day, I navigate the complexities of software development life cycles, require
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-FF9800.svg?style=flat&logo=MicrosoftSQLServer&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
+![DAX Query](https://img.shields.io/badge/DAX_Query-4479A1.svg?style=flat&logo=MicrosoftPowerBI&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-1B5E20.svg?style=flat&logo=MicrosoftPowerBI&logoColor=white)
+![Power FX](https://img.shields.io/badge/Power_FX-742774.svg?style=flat&logo=MicrosoftPowerApps&logoColor=white)
 
 
 
@@ -64,6 +68,14 @@ By day, I navigate the complexities of software development life cycles, require
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
 ![Codeanywhere](https://img.shields.io/badge/Codeanywhere-FF4785.svg?style=flat&logo=codeanywhere&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=markdown&logoColor=white)
+![Microsoft Visual Studio](https://img.shields.io/badge/Microsoft_Visual_Studio-5C2D91.svg?style=flat&logo=visualstudio&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF.svg?style=flat&logo=MicrosoftPowerAutomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774.svg?style=flat&logo=MicrosoftPowerApps&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774.svg?style=flat&logo=MicrosoftPowerPlatform&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?style=flat&logo=PowerBI&logoColor=black)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B.svg?style=flat&logo=flutter&logoColor=white)
+
+
 
 ### 🏆 `Key Projects`
 
